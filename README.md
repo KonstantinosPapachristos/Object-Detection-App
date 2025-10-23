@@ -1,3 +1,5 @@
+OBJECT DETECTION APP
+
 This project is an object detection and tracking application built with OpenCV and a Tkinter-based GUI.
 The user can choose a video file and a predefined color (or "Any" for all colors), and the program will detect, track, and draw motion trails of the moving objects within the video.
 
@@ -96,3 +98,10 @@ The program shows the processed frame and mask side by side:
 
 
 Press ‘q’ to exit.
+
+
+📄 License
+
+The project is available for free use and modification for educational purposes.
+
+Thank you for your interest in this project! 🚀****
